@@ -593,7 +593,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 */
 footer.main-footer {
   padding: 60px 0;
-  background: #222;
+  background: #999999;
 }
 
 footer.main-footer p.social a {
@@ -629,7 +629,7 @@ footer.main-footer p.social a.email {
 
 footer.main-footer p {
   margin: 0;
-  color: #eee;
+  color: black;
   font-family: "Roboto Slab", serif;
   font-size: 0.9rem;
 }
@@ -637,7 +637,7 @@ footer.main-footer p {
 footer.main-footer p.template-bootstrapious {
   margin-top: 20px;
   text-align: center;
-  color: #eee;
+  color: black;
   font-size: 0.9rem;
   font-family: "Roboto", sans-serif;
 }
